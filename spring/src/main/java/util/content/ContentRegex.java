@@ -12,4 +12,18 @@ public class  ContentRegex{
 
     }
 
+    /**
+     * @return 输入值是否为一个邮箱地址
+     */
+    public boolean isValidEmail(){
+
+    }
+
+
+    /**
+     * @return 输入值是否为一个邮箱地址
+     */
+    public boolean isValidPassword(){
+
+    }
 }
